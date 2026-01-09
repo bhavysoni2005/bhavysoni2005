@@ -2,6 +2,9 @@
 Hi, I’m **Bhavy Soni** 👋  
 A developer who enjoys turning caffeine into code and problems into deployable solutions.
 
+🌱 Currently learning **Machine Learning, System Design, and Backend Engineering**  
+🎯 Focused on **real-world projects**, not tutorial purgatory  
+🛠️ Interested in **AI, Web Apps, Data Analytics, and Automation**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavy3038) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bhavy Soni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavysoni2005@gmail.com) 
