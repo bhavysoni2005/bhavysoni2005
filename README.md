@@ -1,5 +1,6 @@
-# 💫 About Me:
-🌱 I’m currently learning
+# 💫 About Me
+Hi, I’m **Bhavy Soni** 👋  
+A developer who enjoys turning caffeine into code and problems into deployable solutions.
 
 
 ## 🌐 Socials:
